@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wixiey</h1>
 <h3 align="center">A Software Engineering student from the Netherlands</h3>
 
+# 💻 About me:
+
 - 🔭 I’m currently working on **school and personal projects.**
 
 - 🌱 I’m currently learning **Java, C#, C++, JavaScript, Kotlin.**<br/>
