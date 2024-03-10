@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wixiey</h1>
+<h1 align="center">Hi 👋, I'm Wix</h1>
 <h3 align="center">A Software Engineering student from the Netherlands</h3>
 
 # 💻 About me:
