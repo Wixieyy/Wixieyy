@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wix</h1>
-# 💻 About me:
+<h2>💻 About me:</h2>
 
 - 📖 I'm a Software Engineering student from the Netherlands
 
