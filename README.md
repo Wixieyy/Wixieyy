@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wix</h1>
-<h3 align="center">A Software Engineering student from the Netherlands</h3>
-
 # 💻 About me:
+
+- 📖 I'm a Software Engineering student from the Netherlands
 
 - 🔭 I’m currently working on **school and personal projects.**
 
