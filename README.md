@@ -1,4 +1,4 @@
-<h2>System.out.println("👋 Hello World!")</h2>
+<h2>std::cout << "👋 Hello World!" << std::endl;</h2>
 <h3>💻 About me:</h3>
 <ul>
   <li> 📖 My name is Wix, I'm a 23 year old Software Engineering student from the Netherlands.</li><br>
