@@ -5,7 +5,7 @@
 
 <li> 🔭 I’m currently working on school and personal projects. </li><br>
 
-<li> 🌱 I’m currently learning Java, C#, C++, JavaScript and a little bit of Kotlin.</li><br>
+<li> 🌱 I’m currently learning Java, C#, C++, JavaScript and TypeScript.</li><br>
 
 <li> ✉️ For all inquiries and questions please reach out on <a href="https://discord.com/users/:137275332607606784">Discord.</li><br>
 </ul>
