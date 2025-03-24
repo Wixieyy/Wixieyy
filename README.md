@@ -1,7 +1,7 @@
 <h2>System.out.println("👋 Hello World!");</h2>
 <h3>💻 About me:</h3>
 <ul>
-  <li> 📖 My name is Wix, I'm a 23 year old Software Engineering student from The Netherlands.</li><br>
+  <li> 📖 My name is Wix, I'm a 24 year old Software Engineering student from The Netherlands.</li><br>
 
 <li> 🔭 I’m currently working mostly on university projects and (if i have the time) also personal projects. </li><br>
 
