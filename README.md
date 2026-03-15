@@ -1,11 +1,11 @@
-<h2>console.log("👋 Hello World!");</h2>
+<h2>cout << "Hello World!";</h2>
 <h3>💻 About me:</h3>
 <ul>
   <li> 📖 My name is Shendrick, I'm a 25 year old Software Engineering student from The Netherlands.</li><br>
 
 <li> 🔭 I’m currently working mostly on university projects and (if i have the time) also personal projects. </li><br>
 
-<li> 🌱 I’m currently learning C#, React, JavaScript, TypeScript and a couple other frameworks.</li><br>
+<li> 🌱 I’m currently learning C++ for embedded.</li><br>
 
 <li> ✉️ For all inquiries and questions please reach out on <a href="https://discord.com/users/:137275332607606784">Discord.</li><br>
 </ul>
